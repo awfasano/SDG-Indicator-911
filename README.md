@@ -1,3 +1,7 @@
+For The subnatational RAI data, we are using the calculation from this methodology
+
+
+
 # SDG-Indicator-911
 
 This repository contains the scripts that the Columbia Climate School [Center for International Earth Science Information Network (CIESIN)](http://www.ciesin.org/) used to compute United Nations (UN) Sustainable Development Goal (SDG) Indicator 9.1.1 with global open data. [SDG 9](https://sdgs.un.org/goals/goal9) aims to “build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation.” Addressing inadequate access to roads, especially in rural areas, is critical to achieving SDG 9. Sustainable transportation helps to [eliminate poverty, promote food security, improve access to key health services, increase trade competitiveness, and bolster human rights](https://sdgs.un.org/sites/default/files/2021-10/Transportation%20Report%202021_FullReport_Digital.pdf). As one measure of progress, the UN has established [SDG Indicator 9.1.1](https://unstats.un.org/sdgs/metadata/?Text=&Goal=9&Target=9.1): “Proportion of the rural population who live within 2 km of an all-season road.” This indicator is commonly known as the [Rural Access Index (RAI)](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12721).

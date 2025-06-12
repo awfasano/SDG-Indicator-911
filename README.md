@@ -1,4 +1,4 @@
-For The subnatational RAI data, we are using the calculation from this methodology
+For The subnatational RAI data, we are using the calculation from this methodology from CIESIN
 
 
 

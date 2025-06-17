@@ -1,5 +1,5 @@
-For The subnatational RAI data, we are using the calculation from this methodology from CIESIN
-
+Rural Access Index (RAI) Data
+The data for the Rural Access Index (RAI) used in this project was produced by the Columbia Climate School's Center for International Earth Science Information Network (CIESIN). We are using their publicly available dataset for SDG Indicator 9.1.1. Full credit goes to the CIESIN team for their significant work in computing and distributing this data. The original source can be found at their repository: CIESIN/SDG-Indicator-911.  We may make updates in the future which is why it is forked from the original.
 
 
 # SDG-Indicator-911
